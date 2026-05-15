@@ -15,7 +15,7 @@ __pycache__/
 .DS_Store
 
 # Class notebooks 
-notebooks_class/*
+.notebooks_class/*
 
 # John's paper
-SIFT_paper/*
+.SIFT_paper/*
