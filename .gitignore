@@ -13,3 +13,9 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Class notebooks 
+notebooks_class/*
+
+# John's paper
+SIFT_paper/*
