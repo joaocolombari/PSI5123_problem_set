@@ -16,6 +16,8 @@ __pycache__/
 
 # Class notebooks 
 notebooks_class/*
+!notebooks_class/.gitkeep
 
 # John's paper
 SIFT_paper/*
+!SIFT_paper/.gitkeep
