@@ -29,7 +29,7 @@ NUSP: 5274502
 ├── README.md
 ├── SA1.WAV
 ├── SIFT_paper
-│   └── I will gitignore this file since they are IEEE's..
+│   └── I will gitignore this file since it is IEEE's..
 └── venv
 ```
 

@@ -15,7 +15,7 @@ __pycache__/
 .DS_Store
 
 # Class notebooks 
-.notebooks_class/*
+.notebooks_class/
 
 # John's paper
-.SIFT_paper/*
+.SIFT_paper/The_SIFT_algorithm_for_fundamental_frequency_estimation.pdf
